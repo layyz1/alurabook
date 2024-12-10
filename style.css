@@ -1,0 +1,19 @@
+@import url("styles/header.css");
+
+
+
+:root {
+
+    --cor-de-fundo: #EBECEE;
+
+    --fundo-cabeçalho: rgb(111, 73, 214);
+
+}
+
+
+
+body {
+
+    background-color: var(--cor-de-fundo);
+
+}
